@@ -1,0 +1,38 @@
+@font-face{
+    font-family: 'Nova_Regular';
+    src: url('../fonts/Nova_Regular.eot');
+    src: url('../fonts/Nova_Regular.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Nova_Regular.ttf') format('truetype'),
+         url('../fonts/Nova_Regular.woff') format('woff'),
+         url('../fonts/Nova_Regular.woff2') format('woff2'),
+         url('../fonts/Nova_Regular#Nova_Regular') format('svg');
+}
+
+@font-face{
+    font-family: 'Nova_Thin';
+    src: url('../fonts/Nova_Thin.eot');
+    src: url('../fonts/Nova_Thin.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Nova_Thin.ttf') format('truetype'),
+         url('../fonts/Nova_Thin.woff') format('woff'),
+         url('../fonts/Nova_Thin.woff2') format('woff2'),
+         url('../fonts/Nova_Thin#Nova_Thin') format('svg');
+}
+@font-face{
+    font-family: 'Nova_Bold';
+    src: url('../fonts/Nova_Bold.eot');
+    src: url('../fonts/Nova_Bold.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Nova_Bold.ttf') format('truetype'),
+         url('../fonts/Nova_Bold.woff') format('woff'),
+         url('../fonts/Nova_Bold.woff2') format('woff2'),
+         url('../fonts/Nova_Bold#Nova_Bold') format('svg');
+}
+@font-face {
+  font-family: 'icon';
+  src:  url('../icon/icon.eot?ya13r');
+  src:  url('fonts/icon.eot?ya13r#iefix') format('embedded-opentype'),
+    url('../icon/icon.ttf?ya13r') format('truetype'),
+    url('../icon/icon.woff?ya13r') format('woff'),
+    url('../icon/icon.svg?ya13r#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
